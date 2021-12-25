@@ -26,6 +26,10 @@ display: inline-block; /* Строчно-блочный элемент */
     text-decoration: none; /* Убираем подчёркивание */
     border-radius: 3px; /* Скругляем уголки */
 	text-align: center;
+	width:100px; 
+	position: absolute; 
+	margin:0 auto; 
+	left:0 right:0
 }
 /* 3 */
 .btn-3 {
