@@ -19,17 +19,13 @@
 }
 
 .custom-btn {
-transform: translate(-50%, 0);
-  display:block;
-	margin:auto;
-	padding 3px;
-  background:#000000;
-  color:#fff!important;
-  text-decoration:none;
-  font-size:17px;
-  text-align: center;
-  border: 2px solid #c5baba;
-  border-radius: 34px;
+display: inline-block; /* Строчно-блочный элемент */
+    background: #8C959D; /* Серый цвет фона */
+    color: #fff; /* Белый цвет текста */
+    padding: 1rem 1.5rem; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 3px; /* Скругляем уголки */
+	text-align: center;
 }
 /* 3 */
 .btn-3 {
