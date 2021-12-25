@@ -20,13 +20,12 @@
 
 .custom-btn {
 	position: relative;
-left: 50%;
 transform: translate(-50%, 0);
   display:block;
   width:100px;
   margin:auto;
   padding: 9px 17px;
-  background:#3d9c3e;
+  background:#000000;
   color:#fff!important;
   text-decoration:none;
   font-size:17px;
