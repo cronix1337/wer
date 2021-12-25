@@ -25,10 +25,7 @@ display: inline-block; /* Строчно-блочный элемент */
     padding: 1rem 1.5rem; /* Поля вокруг текста */
     text-decoration: none; /* Убираем подчёркивание */
     border-radius: 3px; /* Скругляем уголки */
-	width:150px; 
-	position: absolute; 
-	margin:0 auto; 
-	left:0 right:0
+	text-align: center;
 }
 /* 3 */
 .btn-3 {
